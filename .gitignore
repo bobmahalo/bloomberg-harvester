@@ -1,0 +1,6 @@
+# Ignore output directory and logs
+output/
+*.log
+__pycache__/
+*.parquet
+*.csv
