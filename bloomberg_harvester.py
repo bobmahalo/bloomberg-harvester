@@ -9,7 +9,7 @@ import numpy as np
 # ==========================================
 # Set to True to bypass Bloomberg API and generate fake data for testing locally.
 # Set to False BEFORE handing off to the terminal user.
-MOCK_MODE = True
+MOCK_MODE = False
 
 if not MOCK_MODE:
     try:
